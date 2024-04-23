@@ -1,0 +1,41 @@
+{
+  "configurations" : [
+    {
+      "id" : "67727AFB-2A98-4B72-8C50-C82A6674530B",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "locationScenario" : {
+      "identifier" : "Sydney, Australia",
+      "referenceType" : "built-in"
+    },
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:WeatherAppOpenAPI.xcodeproj",
+      "identifier" : "F33FEE782BBEA05700102B3D",
+      "name" : "WeatherAppOpenAPI"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:WeatherAppOpenAPI.xcodeproj",
+        "identifier" : "F33FEE8E2BBEA05900102B3D",
+        "name" : "WeatherAppOpenAPITests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:WeatherAppOpenAPI.xcodeproj",
+        "identifier" : "F33FEE982BBEA05900102B3D",
+        "name" : "WeatherAppOpenAPIUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
