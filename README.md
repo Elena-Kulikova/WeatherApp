@@ -29,7 +29,7 @@
 
 
 ## Отображение погоды на главном экране с использованием текущей геопозиции
-![Погода в текущей геопозиции](https://github.com/Elena-Kulikova/WeatherApp/assets/122520952/18802fdc-8a85-41e3-a7e4-a3fc8b494fec)
+![Погода Калининград drawio](https://github.com/Elena-Kulikova/WeatherApp/assets/122520952/6ce1afc2-3c04-4354-af10-dde56d8f1d44)
 
 
 ## Уведомление "City not found"
