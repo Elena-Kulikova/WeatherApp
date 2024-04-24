@@ -26,11 +26,14 @@
 #  ИНТЕРФЕЙС И ДИЗАЙН
 
 ## Главный экран при запуске приложения впервые
-/Users/elena/Desktop/Главный экран.png
+![Главный экран](https://github.com/Elena-Kulikova/WeatherApp/assets/122520952/7e824597-fae6-4857-8e12-ac20dcb7132d)
+
 
 ## Отображение погоды на главном экране с использованием текущей геопозиции
-/Users/elena/Desktop/Simulator Screenshot - iPhone 15 Pro - 2024-04-16 at 15.23.13.png
+![Погода в текущей геопозиции](https://github.com/Elena-Kulikova/WeatherApp/assets/122520952/18802fdc-8a85-41e3-a7e4-a3fc8b494fec)
+
 
 ## Уведомление "City not found"
-/Users/elena/Desktop/Simulator Screenshot - iPhone 15 Pro - 2024-04-16 at 14.19.23.png
+![Уведомление "City not found"](https://github.com/Elena-Kulikova/WeatherApp/assets/122520952/c1e929b5-ea53-49a7-8d3b-b1e75ffaa576)
+
 
